@@ -5,6 +5,7 @@
   <li><b>Complete login and registration using JSP and Servlets<b></li>
   <li>Manage sports equipment </li>
   <li><b>MVC used<b></li>
+  <li><b>OOP Conecpts used<b></li>
 </ul>  
 
 
